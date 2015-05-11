@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/language/qt_zh_CN.qm</file>
+        <file>res/picture/blank.bmp</file>
+        <file>res/picture/num.bmp</file>
+        <file>res/picture/dead.bmp</file>
+        <file>res/picture/win.bmp</file>
+        <file>res/picture/orig.bmp</file>
+    </qresource>
+</RCC>
